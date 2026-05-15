@@ -7,7 +7,7 @@ A small applcation to experiment with OpenCV video streaming/capturing and basic
 
 It is also used to choose proper user interface controls.
 
-Run parameters eminder:
+Run parameters reminder:
 
 For Linux Eclipse environment:
 
